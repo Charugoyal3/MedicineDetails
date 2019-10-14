@@ -1,0 +1,26 @@
+{
+  "name": "medashare",
+  "version": "1.0.0",
+  "description": "u can view all the information as well as medicine photo",
+  "main": "index.js",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "git": "^0.1.5",
+    "mongoose": "^5.7.4",
+    "nodemon": "^1.19.3",
+    "parser": "^0.1.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "charu",
+  "license": "ISC"
+}
